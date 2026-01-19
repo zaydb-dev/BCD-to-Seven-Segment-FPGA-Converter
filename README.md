@@ -80,7 +80,7 @@ Bitstream Generation: Successfully completed for hardware deployment.
 
 The final bitstream was loaded onto the Blackboard FPGA. I verified the design by toggling the onboard switches in BCD configurations and observing the corresponding decimal output on the 7-segment display.
 
-    [Upload photos of the FPGA displaying digits from Figures 3.5–3.14 here]
+![FPGA 7-Segment Output](images/7_sg_display_8.jpg)
 
 ## 5. Conclusion
 
