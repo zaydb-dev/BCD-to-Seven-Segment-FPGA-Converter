@@ -58,21 +58,9 @@ Segment f: F = w′x′z + yz + x′y
 
 Segment g: F = w′x′y′ + xyz
 
-    [INSERT IMAGE GALLERY: Include your K-map screenshots from Figures 2.2 through 2.8 here]
-
 ## 2. Simulation and Verification
 
-Prior to hardware implementation, I designed and verified the logic circuit in Logisim.
-
-    Total Gate Count: 34.
-
-AND Gates: 26.
-
-OR Gates: 8.
-
-The circuit was built to ensure that theoretical simplifications matched expected logical behavior.
-
-    [INSERT IMAGE: Upload the Logisim Circuit implementation from Figure 2.10 here]
+Prior to hardware implementation, I designed and verified the logic circuit in Logisim, to insure that the expected behaviour resulted from the simplification process.
 
 ## 3. FPGA Implementation (Verilog)
 
@@ -82,7 +70,7 @@ The converter was programmed in Verilog using Data-Flow Modeling. This higher-le
 
 The design successfully completed the following milestones in Vivado 2023.1:
 
-    Synthesis: Successful.
+Synthesis: Successful.
 
 Implementation: Successful.
 
@@ -92,7 +80,7 @@ Bitstream Generation: Successfully completed for hardware deployment.
 
 The final bitstream was loaded onto the Blackboard FPGA. I verified the design by toggling the onboard switches in BCD configurations and observing the corresponding decimal output on the 7-segment display.
 
-    [INSERT IMAGE GALLERY: Upload your photos of the FPGA displaying digits from Figures 3.5–3.14 here]
+    [Upload photos of the FPGA displaying digits from Figures 3.5–3.14 here]
 
 ## 5. Conclusion
 
