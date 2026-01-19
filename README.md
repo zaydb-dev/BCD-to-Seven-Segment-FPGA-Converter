@@ -84,4 +84,4 @@ The final bitstream was loaded onto the Blackboard FPGA. I verified the design b
 
 ## 5. Conclusion
 
-The implementation of this converter was successful, with Logisim simulation results directly matching the FPGA board implementation as expected. While designing for seven concurrent outputs was challenging, it provided hands-on experience in industry-relevant practices for building common logical circuits.
+The implementation of this converter was successful, with my Logisim simulation results directly matching the FPGA board implementation as expected. While designing for seven concurrent outputs was challenging, it provided hands-on experience in industry-relevant practices for building a widely used logical circuit, as well as critical skills in hardware simplification and optimization.
